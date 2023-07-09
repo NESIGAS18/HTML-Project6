@@ -1,0 +1,105 @@
+
+.face{
+    height:550px;
+    width: 550px;
+    background-color: pink;
+    border-radius: 200%;
+    margin-top: 150px;
+}
+.leb{
+height: 110px;
+width:110px;
+background-color: white;
+position:absolute;
+border-radius: 100%;
+top:300px;
+left:730px;
+}
+.reb{
+height:110px;
+width:110px;
+background-color: white;
+position:absolute;
+border-radius:100%;
+top: 300px;
+left: 520px;
+}
+.reye{
+height:60px;
+width:60px;
+background-color: black;
+position:absolute;
+border-radius: 100%;
+top: 325px;
+/* right: 532px; */
+left:755px;
+}
+.leye{
+height:60px;
+width:60px;
+background-color: black;
+border-radius: 100%;
+position:absolute;
+top:325px;
+left:545px;
+}
+.mouth{
+height: 80px;
+width: 200px;
+background-color: red;
+position:absolute;
+top:500px;
+left:580px;
+border-radius: 100%;
+border-radius: 40px 40px 40px 40px;
+}
+.rnose{
+height: 50px;
+width: 50px;
+background-color: black;
+position:absolute;
+top: 15px;
+/* left: 300px; */
+right: 130px;
+border-radius: 100%;
+}
+.lnose{
+height: 50px;
+width: 50px;
+background-color: black;
+position:absolute;
+border-radius: 100%;
+top: 15px;
+/* left: 300px; */
+left: 130px;
+}
+/* .Mouth{
+    height:30px;
+    width:50px;
+    background-color: red;
+    position: absolute;
+    top:110px;
+    left:75px;
+    border-radius:0px 0px 25px 25px;
+    overflow: hidden;
+} */
+.lear{
+    height:200px;
+    width: 200px;
+    background-color:pink;
+    position:absolute;
+    top:150px;
+    left:300px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.rear{
+    height:200px;
+    width:200px;
+    background-color:pink;
+    position: absolute;
+    top:150px;
+    left:850px;
+    border-radius:100%;
+    overflow: hidden;
+}
